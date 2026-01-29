@@ -44,13 +44,6 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=priyapatil827&show_icons=true&theme=react&hide_border=false"
-    width="420"
-    height="170"
-  />
-</p>
 
 <p align="center">
   <img 
@@ -70,14 +63,6 @@
     width="420"
     height="170"
   />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/priyapatil827/priyapatil827/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
