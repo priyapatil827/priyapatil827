@@ -6,18 +6,18 @@
 <h3 align="center">Web Developer Intern 💼 | Frontend Learner 🎨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=EC4899&center=true&vCenter=true&width=520&lines=Web+Developer+Intern;HTML+%7C+CSS+%7C+JavaScript;Learning+Node.js;Building+Projects+Daily+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=520&lines=Web+Developer+Intern;HTML+%7C+CSS+%7C+JavaScript;Learning+Node.js;Building+Projects+Daily+✨" />
 </p>
 
 ---
 
-## 🌸 About Me  
+## 🌊 About Me  
 
 - 🎓 Web Developer Intern  
 - 💻 Focused on **Frontend Development**  
 - 🌱 Currently learning **JavaScript & Node.js**  
-- 📚 Love building small projects to learn faster  
-- ✨ Goal: Grow as a professional web developer  
+- 📚 Love building real-world projects  
+- 🚀 Goal: Become a skilled frontend developer  
 
 ---
 
@@ -42,32 +42,63 @@
 
 ---
 
+## 📊 GitHub Stats  
 
-## 📈 Most Used Languages  
- <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&layout=compact&hide_border=false"
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=priyapatil827&show_icons=true&theme=react&hide_border=false"
     width="420"
     height="170"
   />
+</p>
+
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=priyapatil827&theme=react&hide_border=false"
+    width="420"
+    height="180"
+  />
+</p>
 
 ---
 
+## 📈 Most Used Languages  
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyapatil827&layout=compact&theme=react&hide_border=false"
+    width="420"
+    height="170"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyapatil827/priyapatil827/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 🤝 Connect With Me  
 
 <p align="center">
   <a href="https://github.com/priyapatil827">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💖 A Little Note  
+## 💙 Quote  
 
-> *"Consistency beats talent when talent doesn’t stay consistent."* ✨  
+> *"Small steps every day lead to big success."* ✨  
 
 ---
 
 ⭐ Thank you for visiting my profile  
 ⭐ Always learning, always building 🚀
+
+
