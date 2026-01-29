@@ -42,24 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nikunj1112&theme=rose&show_icons=true&hide_border=false&line_height=22"
-    width="420"
-    height="170"
-  />
-
-  <!-- GitHub Streak -->
-
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=nikunj1112&theme=rose&hide_border=false"
-    width="420"
-    height="180"
-  />
-
----
 
 ## 📈 Most Used Languages  
  <img 
